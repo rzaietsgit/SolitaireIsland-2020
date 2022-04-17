@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "6232244701",
+    "firebase_url": "https://solitaire-vacation-default-rtdb.firebaseio.com",
+    "project_id": "solitaire-vacation",
+    "storage_bucket": "solitaire-vacation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6232244701:android:a2e3ab3b872e62d77c3634",
+        "android_client_info": {
+          "package_name": "com.solitaire.vacation.tripeaks.island"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6232244701-s5ae88dkcs6jmaiicnhthsrd2mekdmsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS0ksQ6NL1W5IjigszXcHj-USBJsPT5n4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6232244701-s5ae88dkcs6jmaiicnhthsrd2mekdmsa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

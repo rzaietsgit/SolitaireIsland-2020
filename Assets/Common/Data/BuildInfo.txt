@@ -1,0 +1,1 @@
+[{"TypePlatform":0,"ProductName":"Solitaire Vacation","CompanyName":"ITSoft","GameName":"Solitaire Vacation - Tri Peaks Island","BundleIdentifier":"com.solitaire.vacation.tripeaks.island","Version":"1.0.0","BundleVersionCode":1,"scriptingImplementation":1,"minSdkVersion":21,"iOSSdkVersion":988,"androidBuildSystem":1}]
